@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/shaq0001/aws-computer-vision-api/actions/workflows/main.yml/badge.svg)](https://github.com/shaq0001/aws-computer-vision-api/actions/workflows/main.yml)
+
 # aws-computer-vision-api
 This is a repo explores AWS computer vision API'
 
